@@ -5,7 +5,7 @@ description: ABCDEメソッドやチャンク・テクニックなどのタス�
 
 [最も大切な仕事を優先する方法•Asana](https://asana.com/ja/resources/how-prioritize-tasks-work) で紹介されていた次の4つのタスク管理術を翻訳していきたい。
 
-- [かえるを食べてしまえ  (Tackle the Hard Stuff First)](https://www.codingvc.com/tackle-the-hard-stuff-first)
+- かえるを食べてしまえ  (Tackle the Hard Stuff First)
     - https://www.codingvc.com/tackle-the-hard-stuff-first
 - アイゼンハワーマトリクス (Eisenhower's Urgent/Important Principle)
     - https://www.mindtools.com/pages/article/newHTE_91.htm
