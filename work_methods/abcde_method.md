@@ -1,7 +1,7 @@
 優先度を設定するための ABCDE メソッド
 ===============================================
 
-description: ABCDメソッドやチャンク・テクニックなどのタスク管理や仕事術の紹介
+description: ABCDEメソッドやチャンク・テクニックなどのタスク管理や仕事術の紹介
 
 [最も大切な仕事を優先する方法•Asana](https://asana.com/ja/resources/how-prioritize-tasks-work) で紹介されていた次の4つのタスク管理術を翻訳していきたい。
 
@@ -9,7 +9,7 @@ description: ABCDメソッドやチャンク・テクニックなどのタスク
     - https://www.codingvc.com/tackle-the-hard-stuff-first
 - アイゼンハワーマトリクス (Eisenhower's Urgent/Important Principle)
     - https://www.mindtools.com/pages/article/newHTE_91.htm
-- ABCDメソッド (The ABCDE Method For Setting Priorities)
+- ABCDEメソッド (The ABCDE Method For Setting Priorities)
     - https://www.briantracy.com/blog/personal-success/the-abcde-method-for-setting-priorities/
 - チャンク・テクニック (How to Be More Productive: The Chunking Technique)
     - https://noop.nl/2015/03/how-to-be-more-productive-the-chunking-technique.html
