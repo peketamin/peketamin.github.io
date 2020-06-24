@@ -27,7 +27,7 @@ cf: https://jamesclear.com/ivy-lee
 ----
 
 ## かえるを食べてしまえ (Tackle the Hard Stuff First)
-原文: https://www.codingvc.com/tackle-the-hard-stuff-first
+原文: https://www.codingvc.com/tackle-the-hard-stuff-first  
 Credit: Leo Polovets(https://www.codingvc.com/about)
 
 > もし一匹のカエルを食べることが君の仕事だとしたら、一番良いのは朝一にそれを済ませてしまうことだ。そして、もし二匹のカエルを食べることが君の仕事だとしたら、一番良いのは大きい方から食べることだ。
