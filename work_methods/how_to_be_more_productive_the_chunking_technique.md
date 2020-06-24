@@ -20,11 +20,11 @@ description: ABCDEメソッドやチャンク・テクニックなどのタス�
 原文: https://noop.nl/2015/03/how-to-be-more-productive-the-chunking-technique.html  
 Credit: JURGEN APPELO (https://jurgenappelo.com/about/)
 
-「生産性が高いですね！」
+「生産性が高い！」
 
-「律儀ですね！」
+「規律正しい！」
 
-「カッコいいですね！」
+「カッコいい！」
 
 オーケー。多分、最後のやつは勘違いかもしれません。しかし、最初の2つの褒め言葉については私は2回以上受けました。「ここでは何も完遂することができない!」というフラストレーションを抱えながら、このポジティブなフィードバックをしかたなく受け入れています。
 
@@ -62,47 +62,46 @@ Credit: JURGEN APPELO (https://jurgenappelo.com/about/)
 
 4番目のチャンクは、夜に受信したすべてのメールと、Twitter、Slack、Facebook、LinkedInの質問や通知を処理するというタスクを集めたものでした。このチャンクは 35 分の作業で、その後すべてのチャネルがクリアになりました。このチャンクは、全く無関係なアクティビティのグループです。それらには共通点があり、それをやっている間、私は「返信モード」にいて、単純に何十ものメッセージに返信するという点でのみ似ていました。
 
-Chunk number five took only 10 minutes: posting and scheduling some interesting articles I had found the night before. For me this is a recurring two-chunk activity: reading in bed at night for about 30 minutes, and then posting articles for about 10 minutes the next morning. This is always two chunks, separated by a good night’s sleep.
+チャンク No.5は、10分しかかかっていません。前の晩に見つけた興味深い記事を投稿したりスケジューリングしたりです。私にとって、これは繰り返し行われる2つのアクティビティになっています。夜、ベッドで30分間、記事を読んで、翌朝10分間、記事を投稿します。これは常に2つセットのチャンクになっていて、夜間の良い睡眠によって分割されています。
 
-Chunk six was supposed to take at least half an hour, but I had to stop after 15 minutes. While testing our new Management 3.0 web shop I ran into issues that had to be resolved before I could continue. A nice example of an interrupted chunk!
+第六チャンクは少なくとも30分かかるはずでしたが、15分やったところで中断するハメになりました。新しくできた「Management 3.0 Webショップ」のテスト中に、タスクの続行が不可能となるような問題が発生しました。これは中断されたチャンクの良い例です。
 
-I then spent 35 minutes on chunk number seven: collecting and preparing images for one of the three videos we had recorded this morning. It was finished after I had sent the images to Nicolas. I will have to do the same for the other two videos, but those will be chunks for later. I have done enough (for now) to keep Nicolas unblocked. The entire project (the making of three videos) will take eight to ten chunks in total, is my guess.
+それから35分を7番目のチャンクにかけました。今朝録画した3つの動画用に画像を集めて準備するという作業です。Nicolasに画像を送って完成しました。他の2つの動画でも同じことをする必要がありますが、それらは後のチャンクでやることにします。(今のところ) 私はNicolasのスケジュールをブロックしてません。よくやったと思います。プロジェクト全体 (3つの動画作成) で、合計8から10のチャンクを必要とする、というのが私の推測になります。
 
-And then it was time for another break: I went for a walk, enjoyed a good lunch, and I read a bit of news and a chapter of a non-fiction book. Admittedly, reading non-fiction could count as a chunk of work, but I didn’t record the time stamps. It’s sometimes hard for me to decide where business ends and pleasure starts. 🙂
+それからまた休憩の時間になりました。散歩に行って、おいしいランチを食べて、ニュースとノンフィクションの本を読みました。確かに、ノンフィクションを読むことは一つのチャンクとして数えられるかもしれませんが、私はタイムスタンプを記録しませんでした。どこで仕事が終わり、どこで息抜きが始まるのか線引きによく悩みます。🙂
 
-At the end of my 30-minute walk, I ended up at one of my favorite coffee bars in Brussels. A perfect place for me to relax, work, and stay focused. This is how I spent the afternoon…
+30分間の散歩の締めくくりに、ブリュッセルにあるお気に入りのコーヒーバーに行きました。リラックスしたり、仕事をしたり、集中したりするのに最適な場所です。こんな感じで、私は午後を過ごしました...
 
-Chunk eight was a collection of lots of unrelated small tasks. Basically, I cleaned out my task list, so that I only had a few larger items remaining. It took me 45 minutes. It’s another example of a grouping of activities. As usual, I was entirely focused. No emails, no Twitter, no Facebook, no Slack, just killing tasks.
+チャンク8は、関連性のない小さなタスクがたくさん集まったものでした。基本的には、タスクリストを整理して、それよりは大きなアイテムをいくつか残すだけにしました。45分かかりました。アクティビティのグループ化のもう1つの例です。いつものように、私は没入していました。メールも、Twitterも、Facebookも、Slackも、ただタスクを倒すことだけに集中していました。
 
-In chunk nine I picked up testing the web shop again, after team member Hannu notified me that he had implemented some fixes. Yay! I could now test everything and this took me about 50 minutes.
+チャンク9では、チームメンバーのHannuがいくつか修正を実装したとを連絡をくれたので、私はウェブショップのテストを再開しました。やったー! これで全てをテストすることができました。これには約50分かかりました。
 
-Coffee break! (well earned)
+コーヒーブレイク！ (よく働いた)
 
-I then spent 35 minutes booking flights and arranging hotels in chunk number ten, for a trip to Erlangen (Germany) and Manchester (UK). Again, it was a grouping of smaller tasks, although these were strongly related. Booking hotels and flights for several trips in one session saves me a bit of time.
+それあと、エアランゲン (ドイツ) とマンチェスター (イギリス) 行きの航空券の予約とホテルの手配に35分かけました。これがチャンク No. 10です。これもまた、小さなタスクの集まりでしたが、関連性の高いタスクでした。数回の旅行のためにホテルや飛行機を予約を1回にまとめたことで、少し時間を節約できます。
 
-The last four chunks were all rather small: handling emails I had received during the day (10 minutes), processing highlights I had made in some Kindle books (10 minutes), calculating new shipping fees for the web shop (15 minutes), and a bunch of small unrelated tasks that somehow popped up out of nowhere (10 minutes). There was another coffee break somewhere in between, I’m sure, and I wrapped it up with 15 minutes of relaxed reading and a nice 30-minute walk to be home for dinner.
+最後の4つのチャンクは、日中に受け取ったメールの処理（10分）、Kindle本のハイライトの処理（10分）、ウェブショップの新しい配送料の計算（15分）、そして、どこからともなく飛び出してきた小さな無関係の作業（10分）。その間のどこかでコーヒーブレイクがあったと思いますが、15分ほどのんびり読書をして、30分ほど歩いて家に帰り、夕食を食べて締めくくりました。
 
-I had a few more chunks of productivity in the evening after dinner, two of them involved the writing of this blog post.
-
-
-### No Pomodoro Technique
-Some readers may point out the similarity of my **chunking technique** to the [pomodoro technique](http://en.wikipedia.org/wiki/Pomodoro_Technique), which is about cutting up work into 25-minute timeboxes and then forcing yourself to take a break.
-
-Despite the similarity of focusing on one activity, not getting distracted, and taking regular breaks, I want to emphasize the crucial difference: **Unlike pomodoros, chunks have different natural sizes**. I really don’t see the point of setting a kitchen timer that will interrupt me in my work after 25 minutes. Several of my chunks lasted 35 minutes and then they were done. Why would I allow myself to be interrupted at the 25th minute? It would break my flow! It would also cause stress and more task-switching. And what’s wrong with a sequence of focused smaller chunks of 10 or 15 minutes each? My average chunk size last Friday was about 28 minutes. That’s almost the same as the default timebox in the pomodoro technique. But I prefer the variety and flexibility of my chunking method over the rigidity of a kitchen timer. **A task is done when it’s done, not when a bell is ringing**.
-
-**The pomodoro technique is like a wall of same-sized bricks. The chunking method is like a wall of silly-sized stones.**
+夕食後の夕方にいくつか生産的なチャンクがありました。そのうちの2つにはこのブログポストを書くことが含まれています。
 
 
-### Conclusion
-OK, maybe I am a bit more disciplined and productive than other people. It’s not that difficult, really.
+### ポモドーロ・テクニックはいらない
+読者の中には私のこの **チャンキング・テクニック** と[pomodoro technique](http://en.wikipedia.org/wiki/Pomodoro_Technique) との類似性を指摘する人もいるかもしれません。ポモドーロは、タスクを25分のタイムボックスに切り分け、強制的に休憩を入れるというものです。
 
-- Focus on one thing at a time and don’t let yourself be distracted.
-- If work takes more than an hour to do, cut it up in chunks that each take less than an hour to complete.
-- If you have lots of little things to do, bundle them into bigger chunks that take at least 10 minutes each.
-- Allow yourself frequent little breaks between the chunks to clear your mind and enjoy your progress and accomplishments.
+1つのアクティビティに集中し、気を散らさないようにして、定期的に休憩を取るという点は似ていますが、重要な違いを強調しておきたいと思います。 **ポモドーロとは異なり、チャンクにはさまざまな自然の大きさが設定されます**。私は、25分後に仕事が中断されるようなキッチンタイマーを設定する意味がまったくわかりません。私のチャンクには、35分間続いて完了するものがいくつかあります。「25分」が邪魔をしてくることをなぜ私が許さないといけないのでしょう？フロー状態が断たれてしまいます！ストレスやタスク・スイッチングの原因にもなったります。加えて、集中した10分または15分の小さなチャンクの連なりにすることの何が問題なのでしょうか？先週の金曜日の私のチャンクの平均サイズは約28分でした。これは、ポモドーロ方式のデフォルトのタイムボックスとほぼ同じサイズです。しかし、私はキッチンタイマーの融通の効かなさよりも、自分のチャンキング・メソッドの多様性と柔軟性を好みます。**タスクとは、ベルが鳴っているときに完了するものではなく、タスクが終わったら完了するものなのです**。
 
-That’s all there is to it, really.
+**例えるなら、ポモドーロ・テクニックは同じサイズのレンガで作った壁のようなもので、チャンキング・テクニックは色んなサイズの石で作った壁のようなものです。**
 
-**Note that it’s OK to work on different projects!** I can work on a presentation, a blog post, a courseware module, a website, and a video interview, all on the same day. In fact, there’s evidence this may help you be more creative. (Professor [David Burkus](http://davidburkus.com/) told me today that ongoing work that you’ve “parked” in your brain can be “incubating”, which generates more creative ideas.) However, you should still prevent task-switching by chunking: build your colorful wall **one stone at a time**.
+### 結論
+そうですね、もしかしたら私は他の人より少しだけ規律正しくて生産的なのかもしれません。でも、それってそんなに難しいことじゃないんです、本当に。
 
-p.s. This post was written in four chunks: Chunk one was the first half of a draft version (30 minutes), and chunk two was the second half of the draft version (40 minutes). I did both on Friday. Chunk three was a complete polished version (45 minutes), and chunk four was the publication on this blog (45 minutes). I did both on the next Monday.
+- 一度に一つのことに集中して気を散らさないでください。
+- ある仕事が1時間以上かかりそうなら、それぞれが1時間以内に完了するサイズのチャンクに切り分けてください。
+- 細かいタスクが大量にある場合は、10分を最小単位とするかたまりにまとめていきましょう。
+- 頭をスッキリさせて、進捗と完了をエンジョイするために、チャンクとチャンクの間に小さな休憩をこまめに入れることを自身に許してあげてください。
+
+それだけなんです。本当に。
+
+**このテクニックは、ここで紹介したのとは違うプロジェクトでも使えるということに注意してください！** プレゼンテーション、ブログ投稿、オンライン学習、Webサイト開発、動画インタビューをすべて同じ日に行うことができます。実際、こうすることでよりクリエイティブになれるという証拠もあります。(Professor [David Burkus](http://davidburkus.com/)が今日私に話してくれたところによれば、脳の中に “待機” している進行中の仕事は “培養” されることで、より創造的なアイデアを生み出すことができるそうです。)ただ、それをやるときはチャンキングによってタスク・スイッチングを防いでください。カラフルな壁を築いてください。 **1度に1つの石** ですよ。
+
+p.s.この記事は4つのチャンクに分けて書かれており、チャンク1はドラフト版の前半(30分)、チャンク2はドラフト版の後半(40分)でした。どちらも金曜日に行いました。チャンク3は完全に洗練されたバージョン(45分)であり、チャンク4はこのブログに公開するための作業 (45分)でした。翌 月曜日に、その両方を行いました。
