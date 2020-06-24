@@ -1,22 +1,4 @@
-優先度を設定するための ABCDE メソッド
-===============================================
-
-description: ABCDEメソッドやチャンク・テクニックなどのタスク管理や仕事術の紹介
-
-[最も大切な仕事を優先する方法•Asana](https://asana.com/ja/resources/how-prioritize-tasks-work) で紹介されていた次の4つのタスク管理術を翻訳していきたい。
-
-- かえるを食べてしまえ (Tackle the Hard Stuff First)
-    - https://www.codingvc.com/tackle-the-hard-stuff-first
-- アイゼンハワーマトリクス (Eisenhower's Urgent/Important Principle)
-    - https://www.mindtools.com/pages/article/newHTE_91.htm
-- ABCDEメソッド (The ABCDE Method For Setting Priorities)
-    - https://www.briantracy.com/blog/personal-success/the-abcde-method-for-setting-priorities/
-- チャンキング・テクニック (How to Be More Productive: The Chunking Technique)
-    - https://noop.nl/2015/03/how-to-be-more-productive-the-chunking-technique.html
-
-----
-
-## 優先度を設定するための ABCDE メソッド
+# 優先度を設定するための ABCDE メソッド
 原文: https://www.briantracy.com/blog/personal-success/the-abcde-method-for-setting-priorities/  
 Credit: About Brian Tracy
 
@@ -24,10 +6,10 @@ Credit: About Brian Tracy
 
 有効性とはものごとを正しくやるということです。仕事を事前に計画し整理する能力を使うことで、常に最も価値の高いタスクに取組めます。そしてそれは、他の成功要因と同じぐらい成功の決定要因となります。
 
-### 優先度のための ABCDE メソッド
+## 優先度のための ABCDE メソッド
 短期の優先度を設定するプロセスは、ノートとペンから始まります。やることが多すぎたり、それらをやるための時間がなさすぎることに苛まれている時でも、いつでも座って、深呼吸をして、達成すべき全部のタスクをリストアップしていってください。リストアップしたタスクを全てやれるための時間が十分にあるわけではありません。しかし、本当に重要なことだけをことだけをやり、正しく完了するまで取り組み続ける時間は、いつだって十分にあります。
 
-### より良い優先度を設定する
+## より良い優先度を設定する
 主要な目標や目的を決定し、出来上がったリストに **[優先度を設定](https://www.briantracy.com/blog/time-management/the-abcde-list-technique-for-setting-priorities/)** する一番良い手法が A-B-C-D-Eメソッドです。作業を開始する前に、リスト上の個々のタスクの余白にA-B-C-Dの文字を入れます。
 
 “A” stands for “very important;” something you must do. There can be serious negative consequences if you don’t do it.
@@ -45,12 +27,12 @@ Credit: About Brian Tracy
 
 **カエルを食べてしまってください！** そして先延ばしはやめましょう！
 
-### 「No」と言うだけ
+## 「No」と言うだけ
 何よりもやるべきことを 1 つ、または 2 つ、明確に決めたら、その他全ての娯楽・気晴らし・雑音にノーと答えて、優先事項を達成することに一心不乱に集中しましょう。
 
 仕事で経験するストレスの大部分は、優先度の低い作業に取り組むことによって生まれます。驚くべき発見は、最も価値の高いアクティビティを始めることで、すぐに、そしていっぺんにストレスがなくなることです。活力と熱意の継続的な流れを感じるでしょう。本当に重要なことを成し遂げるために働くことで、個人的な価値観や内面的な満足感が増していくのを感じると思います。自己統率感と自制心の感覚を覚えるでしょう。そして、落ち着きが出てきて、自信が付き、能力の可能性を感じることができます。
 
-### 行動演習
+## 行動演習
 ここで、優先順位を設定しベストな状態を維持するのに有効な、毎日使える 3 つのアイディアを紹介します。
 
 1番目、設定した優先事項が自分を本当に価値のある姿に向かわせているようにするために、目標と目的を明確にするための時間を取りましょう。
