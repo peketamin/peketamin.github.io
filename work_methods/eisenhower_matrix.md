@@ -16,40 +16,41 @@ description: ABCDEメソッドやチャンク・テクニックなどのタス�
 
 ----
 
-## アイゼンハワーによる「急ぎ・重要」原則
+## アイゼンハワーによる「緊急・重要」原則
 原文: https://www.mindtools.com/pages/article/newHTE_91.htm
 Credit: Mind Tools Content Team (https://www.mindtools.com/content)
 
-### Using Time Effectively, Not Just Efficiently
-Imagine that your boss has asked you to prepare an important presentation for the next board meeting.
+### 時間を有効に使う。単に効率的にだけでなく。
+上司が次の役員会に向けて重要なプレゼンテーションを準備するよう、あなたに依頼してきたと想像してください。
 
-You only have a few days to put it together, your workload is already high, and you have many other urgent tasks on your To-Do List. Because of this, you're anxious, you can't concentrate, and everything seems to distract you.
+情報をまとめるのに数日しかなく、しかも既にあなたの仕事量もパンパンで、急ぎの仕事もTo-Doリストにたくさんあります。そんな状況なので、あなたは不安な気持ちになっているし、集中もできないし、全てのことがあなたの気を散らしてくるような気がしています。
 
-Time stressors are some of the most pervasive sources of pressure in the workplace, and they happen as a result of having too much to do, in too little time. So, how can you beat this stress, and deliver the things that are essential to doing a good job?
+時間的ストレス要因は、職場で最も蔓延しているプレッシャーの原因の一端であり、あまりにも多くのことを、あまりにも短い時間で抱え込んだ結果として起こります。では、どのようにすればこのストレスを克服し、良い仕事をするために必要なことを果たせるしょうか?
 
-Eisenhower's Urgent/Important Principle helps you think about your priorities, and determine which of your activities are important and which are, essentially, distractions.
-
-
-### What Are "Urgent" and "Important" Activities?
-In a 1954 speech to the Second Assembly of the World Council of Churches, former U.S. President Dwight D. Eisenhower, who was quoting Dr J. Roscoe Miller, president of Northwestern University, said: "I have two kinds of problems: the urgent and the important. The urgent are not important, and the important are never urgent." This "Eisenhower Principle" is said to be how he organized his workload and priorities.
-
-He recognized that great time management means being effective as well as efficient. In other words, we must spend our time on things that are important and not just the ones that are urgent. To do this, and to minimize the stress of having too many tight deadlines, we need to understand this distinction:
-
-- **Important** activities have an outcome that leads to us achieving our goals, whether these are professional or personal.
-- **Urgent** activities demand immediate attention, and are usually associated with achieving someone else's goals. They are often the ones we concentrate on and they demand attention because the consequences of not dealing with them are immediate.
-
-When we know which activities are important and which are urgent, we can overcome the natural tendency to focus on unimportant urgent activities, so that we can clear enough time to do what's essential for our success. This is the way we move from "firefighting" into a position where we can grow our businesses and our careers.
+アイゼンハワーの 「緊急/重要原則」 は、優先順位を考え、自分の行動のうちどれが重要で、どれが本質的に気を散らすものかを判断するのに役立ちます。
 
 
-### How to Use Eisenhower's Principle
-To use this principle, list all of the activities and projects that you feel you have to do. Try to include everything that takes up your time at work, however unimportant. (If you manage your time using a To-Do List  or Action Program,  you will have done this already.)
-Next, think about each activity and put it into one of four categories, as shown in figure 1, below:
+### 「緊急なアクティビティ」 そして「重要なアクティビティ」とは?
+1954年に行われた第2回世界教会会議での演説で、ドワイト・アイゼンハワー元アメリカ大統領は、ノースウェスタン大学のJ・ロスコ・ミラー学長の発言を引用し、「私は問題を2種類と捉えています。 "緊急" と "重要" です。 "緊急" は "重要" ではなく、"重要" は決して "緊急" ではない。」と述べました。これが、彼が仕事量と優先度を整理した方法と言われている「アイゼンハワーの原則」です。
 
-Figure 1 – Eisenhower's Urgent/Important Principle
+真に良い時間管理とは、効率的であると同時に効果的であることを意味すると、彼は認識していたのです。言い換えれば、私たちは緊急なことだけでなく、重要なことに時間を割かなければならないのです。これを行うために、そして厳しい締め切りを抱えすぎることによるストレスを最小限にするために、我々はこの区別について理解する必要があります。
 
-![Figure 1 – Eisenhower's Urgent/Important Principle](https://www.mindtools.com/media/Diagrams/Urgent-Important-Principle.jpg)
+- **重要** なアクティビティとは、専門的な物であれ個人的なものであれ、自分たちの目標達成に繋がる結果をもたらすものです。
+- **緊急** なアクティビティとは、すぐに注意を向ける必要があり、通常は他の人の目標を達成することに関連するものです。我々がよく集中する対象でもあります。注意を払うべき理由としては、それらを扱わなかった場合、その結果がすぐに現れるということです。
 
-Then use the strategies described below to schedule your activities.
+どのアクティビティが重要で、どのアクティビティが緊急であるかが判別できれば、重要でない緊急のアクティビティに集中してしまいがち、という自然に起こりうる傾向を克服できます。そして、何かを成功へ導くために欠かせない作業に対して、時間を十分に確保することができます。このようにして、我々は「火消し」から、ビジネスやキャリアを成長させることができるステージへと移行していくのです。
+
+
+### アイゼンハワー原則の使い方
+この原則を使うには、実行する必要があると思われるすべてのアクティビティとプロジェクトをリストアップします。どんなに重要でないとしても、それをやるために時間をかけているものについては全て含めるようにしましょう (To-Doリストまたはアクションプログラムを使用して時間を管理している場合は、既にこれを実施していることになります)。  
+次に、各アクティビティを図1に示す4つのカテゴリのいずれかに分類します。
+
+図 1 – アイゼンハワーの「緊急/重要」原則
+(訳注: Urgent: 緊急, Important: 重要を意味する。上に行くほど優先度が高い)
+
+![図 1 – アイゼンハワーの「緊急/重要」原則](https://www.mindtools.com/media/Diagrams/Urgent-Important-Principle.jpg)
+
+次に、以下に説明する方法を使用してアクティビティをスケジュールしていきます。
 
 
 ### 1. Important and Urgent
