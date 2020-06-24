@@ -1,4 +1,4 @@
-チャンク・テクニック
+チャンキング・テクニック
 ===============================================
 
 description: ABCDEメソッドやチャンク・テクニックなどのタスク管理や仕事術の紹介
@@ -11,35 +11,35 @@ description: ABCDEメソッドやチャンク・テクニックなどのタス�
     - https://www.mindtools.com/pages/article/newHTE_91.htm
 - ABCDEメソッド (The ABCDE Method For Setting Priorities)
     - https://www.briantracy.com/blog/personal-success/the-abcde-method-for-setting-priorities/
-- チャンク・テクニック (How to Be More Productive: The Chunking Technique)
+- チャンキング・テクニック (How to Be More Productive: The Chunking Technique)
     - https://noop.nl/2015/03/how-to-be-more-productive-the-chunking-technique.html
 
 ----
 
-## もっと生産的になるために: ザ・チャンク・テクニック
+## もっと生産的になるために: ザ・チャンキング・テクニック
 原文: https://noop.nl/2015/03/how-to-be-more-productive-the-chunking-technique.html  
 Credit: JURGEN APPELO (https://jurgenappelo.com/about/)
 
-“You’re so productive!”
+「生産性が高いですね！」
 
-“You’re so disciplined!”
+「律儀ですね！」
 
-“You’re so handsome!”
+「カッコいいですね！」
 
-OK, I may have misremembered that last one. But I did receive the first two compliments more than once. I usually accept this positive feedback reluctantly, given my ongoing frustrations about “never getting anything done around here!”
+オーケー。多分、最後のやつは勘違いかもしれません。しかし、最初の2つの褒め言葉については私は2回以上受けました。「ここでは何も完遂することができない!」というフラストレーションを抱えながら、このポジティブなフィードバックをしかたなく受け入れています。
 
-Nevertheless, I will share with you my approach to my daily work activities, and then you can decide for yourself whether the compliments are deserved or not. The heart of my productivity technique is what I call the **chunking technique**:
+それでも私は、私の日々の仕事に対するアプローチをあなたに共有します。そこで得られる称賛が、あなたにふさわしいものかどうかはあなたが決めてください。私の生産性テクニックの中心は「**チャンク・テクニック**」と呼ぶものです。
 
-- Chunking ([in psychology](http://en.wikipedia.org/wiki/Chunking_(psychology))) is a phenomenon whereby individuals **group responses** when performing a memory task.
-- Chunking ([in writing](http://en.wikipedia.org/wiki/Chunking_(writing))) is a method of presenting information which **splits concepts** into small pieces of information.
+- チャンキング ([心理学における説明](http://en.wikipedia.org/wiki/Chunking_(psychology))) とは、記憶が行われる際の、個々の **ひとかたまりとなっている反応** による現象のこと。
+- チャンキング ([文章術における説明](http://en.wikipedia.org/wiki/Chunking_(writing))) とは、情報を小さな断片にして　**概念を分割** することで情報を伝える手法のこと。
 
-As you can see, chunking can mean both grouping small things into larger chunks AND splitting large things into smaller chunks.
+ご覧のとおり、チャンクとは、小さなものを大きなチャンクにグループ化することと、大きなものを小さなチャンクに分割することの両方を意味します。
 
-In my work, I do both.
+私が仕事をするときは、その両方をやっています。
 
 
-### Chunking
-**A chunk of work is any focused activity lasting between approx. ten minutes and one hour, with the average being less than 30 minutes.**
+### チャンキング
+**作業のチャンクとは、約10分から1時間の間に行われる集中的なアクティビティのことで、平均は30分未満です。**
 
 A chunk of work can be a complete self-contained task, such as emptying my mailbox. But it can also be a well-defined slice from a larger project, such as the first rehearsal of a new presentation. Or it can be the opposite: a collection of unrelated smaller tasks lumped together, such as finishing ten of those pesky little tasks on my to-do list. In other words, a chunk is a well-defined activity of 10 to 60 minutes, which is either one complete task, or a portion of something bigger, or a grouping of several things smaller.
 
