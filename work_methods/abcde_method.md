@@ -17,7 +17,7 @@ description: ABCDEメソッドやチャンク・テクニックなどのタス�
 ----
 
 ## 優先度を設定するための ABCDE メソッド
-原文: https://www.briantracy.com/blog/personal-success/the-abcde-method-for-setting-priorities/
+原文: https://www.briantracy.com/blog/personal-success/the-abcde-method-for-setting-priorities/  
 Credit: About Brian Tracy
 
 効率性とは、ものごとを正しくやるということです。
