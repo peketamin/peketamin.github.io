@@ -11,7 +11,7 @@ description: ABCDEメソッドやチャンク・テクニックなどのタス�
     - https://www.mindtools.com/pages/article/newHTE_91.htm
 - ABCDEメソッド (The ABCDE Method For Setting Priorities)
     - https://www.briantracy.com/blog/personal-success/the-abcde-method-for-setting-priorities/
-- チャンク・テクニック (How to Be More Productive: The Chunking Technique)
+- チャンキング・テクニック (How to Be More Productive: The Chunking Technique)
     - https://noop.nl/2015/03/how-to-be-more-productive-the-chunking-technique.html
 
 ## Asanaの記事には紹介されてなかったけど、Twitterで知った手法「The Ivy Lee Method」
