@@ -42,7 +42,7 @@ Credit: Mind Tools Content Team (https://www.mindtools.com/content)
 
 
 ### アイゼンハワー原則の使い方
-この原則を使うには、実行する必要があると思われるすべてのアクティビティとプロジェクトをリストアップします。どんなに重要でないとしても、それをやるために時間をかけているものについては全て含めるようにしましょう (To-Doリストまたはアクションプログラムを使用して時間を管理している場合は、既にこれを実施していることになります)。  
+この原則を使うには、実行する必要があると思われるすべてのアクティビティとプロジェクトをリストアップします。どんなに重要でないとしても、それをやるために時間をかけているものについては全て含めるようにしましょう ([To-Doリスト](https://www.mindtools.com/pages/article/newHTE_05.htm) または [アクションプログラム](https://www.mindtools.com/pages/article/newHTE_83.htm) を使用して時間を管理している場合は、既にこれを実施していることになります)。  
 次に、各アクティビティを図1に示す4つのカテゴリのいずれかに分類します。
 
 図 1 – アイゼンハワーの「緊急/重要」原則
@@ -53,36 +53,35 @@ Credit: Mind Tools Content Team (https://www.mindtools.com/content)
 次に、以下に説明する方法を使用してアクティビティをスケジュールしていきます。
 
 
-### 1. Important and Urgent
-There are two distinct types of urgent and important activities: ones that you could not have foreseen, and others that you've left until the last minute.
+### 1. 重要でかつ緊急
+急を要する重要なアクティビティには異なる2つのタイプがあります。予見できなかったものと、ギリギリまで放置していたものが今になって来たもの、です。
 
-You can eliminate last-minute activities by planning ahead and avoiding procrastination .
+前もって計画を立て、[先延ばしを避ける](https://www.mindtools.com/pages/article/newHTE_96.htm) ことで、ギリギリの行動をなくすことができます。
 
-However, you can't always predict or avoid some issues and crises. Here, the best approach is to leave some time in your schedule to handle unexpected issues and unplanned important activities. (If a major crisis arises, then you'll need to reschedule other tasks.)
+そうは言っても、問題や危機を常に予測したり回避したりすることはできません。ここでの最善のアプローチは、予定外の問題や予定外の重要なアクティビティを処理するために、スケジュールに余分に時間を残しておくことです (重大な危機が発生した場合は、他のタスクのスケジュールを再調整する必要があります)。
 
-If you have a lot of urgent and important activities, identify which of these you could have foreseen, and think about how you could schedule similar activities ahead of time, so that they don't become urgent.
+急を要する重要な活動がたくさんある場合は、そのうちのどれが予測可能だったかを特定し、同様のアクティビティが急を要するものにならないように、事前にスケジュールを組む方法を考えましょう。
 
+### 2. 重要だが緊急ではない
+これらは、個人的および専門的な目標を達成し、重要な仕事を完了するのに役立つアクティビティです。
 
-### 2. Important but Not Urgent
-These are the activities that help you achieve your personal and professional goals, and complete important work.
-
-Make sure that you have plenty of time to do these things properly, so that they do not become urgent. Also, remember to leave enough time in your schedule to deal with unforeseen problems. This will maximize your chances of keeping on track, and help you avoid the stress of work becoming more urgent than necessary.
-
-
-### 3. Not Important but Urgent
-Urgent but not important tasks are things that prevent you from achieving your goals. Ask yourself whether you can reschedule or delegate  them.
-
-A common source of such activities is other people. Sometimes it's appropriate to say "no" to people politely, or to encourage them to solve the problem themselves. (Our article "'Yes' to the Person, 'No' to the Task"  will help here.)
-
-Alternatively, try to have time slots when you are available, so that people know they can speak with you then. A good way to do this is to arrange regular meetings with those who interrupt you often, so that you can deal with all their issues at once. You'll then be able to concentrate on your important activities for longer.
+これらのことを適切に行うための十分な時間を確保し、緊急事態にならないようにしてください。また、予期しない問題に対処するために十分な時間をスケジュールに残しておくことを忘れないでください。そうすることで、仕事への取り組みを脱線することなくキープし続けるチャンスが最大限に広がり、不要に緊急性が高い仕事がもたらすストレスを避けることができます。
 
 
-### 4. Not Important and Not Urgent
-These activities are just a distraction – avoid them if possible.
+### 3. 重要ではないが緊急
+緊急ではあるが重要ではないタスクは目標の達成を妨げます。スケジュールを再調整するか、他の人にお願いできないかを自身に問いかけてみてください。
 
-You can simply ignore or cancel many of them. However, some may be activities that other people want you to do, even though they don't contribute to your own desired outcomes. Again, say "no" politely, if you can, and explain why you cannot do it.
+緊急ではあるが重要ではないタスクの一般的な発生源は他人です。時には、人々に丁寧に「いいえ」と言ったり、問題を彼ら自身で解決するよう促したりすることが適切です (我々の記事 [「人には "はい"、タスクには "いいえ" と言いましょう」](https://www.mindtools.com/pages/article/newCS_92.htm) を参考にしてください)。
 
-If people see that you are clear about your objectives and boundaries , they will often avoid asking you to do "not important" activities in the future.
+あるいは、時間の都合がつくときに、スケジュールの枠を作って、相手があなたと話すことができる時間が分かるようにしてみましょう。良い方法としては、あなたのタスクを頻繁に中断する人たちと定期的にミーティングして、彼らの問題を一回で処理することです。こうすることで、重要なアクティビティにより長く集中できるようになります。
+
+
+### 4. 重要でなく緊急でもない
+これらのアクティビティはただの阻害要因でしかありません。できれば避けてください。
+
+その多くは、無視したり、キャンセルしたりすればいいのです。とは言え、それらの中には、自分が望む結果に寄与しないにもかかわらず、他の人が自分にやって欲しいと思っていることもあるでしょう。繰り返しますが、できれば丁寧に「いいえ」を言い、なぜそれらができないのかの理由を説明してください。
+
+あなたが自分の目的と境界線を明確にしていることが人々に伝われば、そのうち彼らは「重要ではない」アクティビティの依頼を避けるようになっていくでしょう。
 
 
 ### Key Points
