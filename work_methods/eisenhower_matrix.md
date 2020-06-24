@@ -76,7 +76,7 @@ Credit: Mind Tools Content Team (https://www.mindtools.com/content)
 あるいは、時間の都合がつくときに、スケジュールの枠を作って、相手があなたと話すことができる時間が分かるようにしてみましょう。良い方法としては、あなたのタスクを頻繁に中断する人たちと定期的にミーティングして、彼らの問題を一回で処理することです。こうすることで、重要なアクティビティにより長く集中できるようになります。
 
 
-### 4. 重要でなく緊急でもない
+### 4. 重要でも緊急でもない
 これらのアクティビティはただの阻害要因でしかありません。できれば避けてください。
 
 その多くは、無視したり、キャンセルしたりすればいいのです。とは言え、それらの中には、自分が望む結果に寄与しないにもかかわらず、他の人が自分にやって欲しいと思っていることもあるでしょう。繰り返しますが、できれば丁寧に「いいえ」を言い、なぜそれらができないのかの理由を説明してください。
@@ -84,23 +84,24 @@ Credit: Mind Tools Content Team (https://www.mindtools.com/content)
 あなたが自分の目的と境界線を明確にしていることが人々に伝われば、そのうち彼らは「重要ではない」アクティビティの依頼を避けるようになっていくでしょう。
 
 
-### Key Points
-Eisenhower's Urgent/Important Principle helps you quickly identify the activities that you should focus on, as well as the ones you should ignore.
+### キーポイント
+アイゼンハワーの 「緊急/重要原則」 は、無視すべきアクティビティを素早く特定するのにも役立つのと同様に、集中すべきアクティビティを特定することにも役立ちます。
 
-When you use this tool to prioritize your time, you can deal with truly urgent issues, at the same time as you work towards important, longer-term goals.
+このツールを使用して時間に優先順位を付けると、重要で長期的な目標に向けて努力するのと同時に、本当に緊急の問題に対処できます。
 
 To use the tool, list all of your tasks and activities, and put each into one of the following categories:
+このツールを使用するには、すべてのタスクとアクティビティをリストアップし、それぞれを次のカテゴリのいずれかに分類します。
 
-* Important and urgent.
-* Important but not urgent.
-* Not important but urgent.
-* Not important and not urgent.
+* 重要かつ緊急
+* 重要だが緊急ではない
+* 重要ではないが緊急
+* 重要でも緊急でもない
 
-Then schedule tasks and activities based on their importance and urgency.
+それから、重要度と緊急度に基づいてタスクとアクティビティをスケジュールします。
 
-Infographic
-Click on the image below to see our infographic on Eisenhower's Urgent/Important Principle infographic:
+インフォグラフィック
+下の画像をクリックすると、アイゼンハワーの緊急/重要な原則のインフォグラフィックを見ることができます。
 
 <a href="https://www.mindtools.com/pages/article/urgent-important-principle-infographic.htm"><img alt="Eisenhower's Urgent/Important Principle infographic" src="https://www.mindtools.com/media/Images/Infographics/eisenhower-principle1x1.jpg" width=300 height=300></a>
 
-This site teaches you the skills you need for a happy and successful career; and this is just one of many tools and resources that you'll find here at Mind Tools. Subscribe to our free newsletter, or join the Mind Tools Club and really supercharge your career!
+このサイト (訳注: 原文掲載サイト) では、幸せで成功するキャリアに必要なスキルを教えてくれます。これはマインド・ツールにある多くのツールとリソースの1つにすぎません。無料ニュースレターを購読するか、マインド・ツール・クラブに入会して、あなたのキャリアを加速させてください！
