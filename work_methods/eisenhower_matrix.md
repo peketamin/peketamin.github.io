@@ -84,6 +84,6 @@ To use the tool, list all of your tasks and activities, and put each into one of
 インフォグラフィック
 下の画像をクリックすると、アイゼンハワーの緊急/重要な原則のインフォグラフィックを見ることができます。
 
-[![Eisenhower's Urgent/Important Principle infographic](https://www.mindtools.com/media/Images/Infographics/eisenhower-principle1x1.jpg)]{:width="300px" height="300px"}(https://www.mindtools.com/pages/article/urgent-important-principle-infographic.htm">)
+[![Eisenhower's Urgent/Important Principle infographic](https://www.mindtools.com/media/Images/Infographics/eisenhower-principle1x1.jpg | width=300)](https://www.mindtools.com/pages/article/urgent-important-principle-infographic.htm">)
 
 このサイト (訳注: 原文掲載サイト) では、幸せで成功するキャリアに必要なスキルを教えてくれます。これはマインド・ツールにある多くのツールとリソースの1つにすぎません。無料ニュースレターを購読するか、マインド・ツール・クラブに入会して、あなたのキャリアを加速させてください！
