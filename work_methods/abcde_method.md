@@ -12,7 +12,6 @@ Credit: About Brian Tracy
 ## より良い優先度を設定する
 主要な目標や目的を決定し、出来上がったリストに **[優先度を設定](https://www.briantracy.com/blog/time-management/the-abcde-list-technique-for-setting-priorities/)** する一番良い手法が A-B-C-D-Eメソッドです。作業を開始する前に、リスト上の個々のタスクの余白にA-B-C-Dの文字を入れます。
 
-“A” stands for “very important;” something you must do. There can be serious negative consequences if you don’t do it.
 "A" は "最も重要" を意味します。「必ずやらないとダメなこと」です。取り組まないことで深刻な悪影響を招くものです。
 
 "B" は "重要" を意味します。「やるべきこと」です。 「A」タスクほど重要ではないものです。もし完了しない場合、些細な悪影響があるものです。
