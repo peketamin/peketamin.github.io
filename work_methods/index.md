@@ -1,7 +1,7 @@
 タスク管理術
 ============
 
-[最も大切な仕事を優先する方法•Asana](https://asana.com/ja/resources/how-prioritize-tasks-work) で紹介されていた次の4つのタスク管理術を翻訳していきたい。
+[最も大切な仕事を優先する方法•Asana](https://asana.com/ja/resources/how-prioritize-tasks-work) で紹介されていた次の4つのタスク管理術を翻訳。
 
 - かえるを食べてしまえ (Tackle the Hard Stuff First)
     - https://www.codingvc.com/tackle-the-hard-stuff-first
