@@ -103,6 +103,6 @@ OK, maybe I am a bit more disciplined and productive than other people. It’s n
 
 That’s all there is to it, really.
 
-**Note that it’s OK to work on different projects!** I can work on a presentation, a blog post, a courseware module, a website, and a video interview, all on the same day. In fact, there’s evidence this may help you be more creative. (Professor David Burkus told me today that ongoing work that you’ve “parked” in your brain can be “incubating”, which generates more creative ideas.) However, you should still prevent task-switching by chunking: build your colorful wall **one stone at a time**.
+**Note that it’s OK to work on different projects!** I can work on a presentation, a blog post, a courseware module, a website, and a video interview, all on the same day. In fact, there’s evidence this may help you be more creative. (Professor [David Burkus](http://davidburkus.com/) told me today that ongoing work that you’ve “parked” in your brain can be “incubating”, which generates more creative ideas.) However, you should still prevent task-switching by chunking: build your colorful wall **one stone at a time**.
 
 p.s. This post was written in four chunks: Chunk one was the first half of a draft version (30 minutes), and chunk two was the second half of the draft version (40 minutes). I did both on Friday. Chunk three was a complete polished version (45 minutes), and chunk four was the publication on this blog (45 minutes). I did both on the next Monday.
