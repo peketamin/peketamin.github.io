@@ -17,7 +17,7 @@ description: ABCDEメソッドやチャンク・テクニックなどのタス�
 ----
 
 ## アイゼンハワーによる「緊急・重要」原則
-原文: https://www.mindtools.com/pages/article/newHTE_91.htm
+原文: https://www.mindtools.com/pages/article/newHTE_91.htm  
 Credit: Mind Tools Content Team (https://www.mindtools.com/content)
 
 ### 時間を有効に使う。単に効率的にだけでなく。
