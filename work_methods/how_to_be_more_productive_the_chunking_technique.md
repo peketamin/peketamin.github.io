@@ -17,7 +17,7 @@ description: ABCDEメソッドやチャンク・テクニックなどのタス�
 ----
 
 ## もっと生産的になるために: ザ・チャンク・テクニック
-原文: https://noop.nl/2015/03/how-to-be-more-productive-the-chunking-technique.html
+原文: https://noop.nl/2015/03/how-to-be-more-productive-the-chunking-technique.html  
 Credit: JURGEN APPELO (https://jurgenappelo.com/about/)
 
 “You’re so productive!”
