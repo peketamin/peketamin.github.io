@@ -41,26 +41,26 @@ Credit: JURGEN APPELO (https://jurgenappelo.com/about/)
 ### チャンキング
 **作業のチャンクとは、約10分から1時間の間に行われる集中的なアクティビティのことで、平均は30分未満です。**
 
-A chunk of work can be a complete self-contained task, such as emptying my mailbox. But it can also be a well-defined slice from a larger project, such as the first rehearsal of a new presentation. Or it can be the opposite: a collection of unrelated smaller tasks lumped together, such as finishing ten of those pesky little tasks on my to-do list. In other words, a chunk is a well-defined activity of 10 to 60 minutes, which is either one complete task, or a portion of something bigger, or a grouping of several things smaller.
+作業のチャンクは、メールボックスを空にするなど、完全に自己完結したタスクになります。しかし、新規のプレゼンテーションにおける最初のリハーサルのような、より大きなプロジェクトから切り出された、ちゃんと定義されたスライスでもあります。逆のことも言えます。to-doリストにある10個ぐらいの、うざったい小さなタスクをまとめて終わらすような、関連性のない小さなタスクを寄せ集めた集合だったりもします。言い換えると、チャンクとは10分から60分でできる明確に定義されたアクティビティのことで、単一の完全なタスクのこともあれば、またはそれよりも大きなタスクの一部だったり、はたまた、いくつかの小さなタスクのグループだったりします。
 
-There are three crucial requirements for chunks:
+チャンクには3つの重要な要件があります。
 
-- They have a natural and logical start and finish;
-- They may not be interrupted (except when I’m not given a choice);
-- And breaks are welcome (even desirable) between the chunks.
+- 不自然でく、論理的に、開始時間と終了時間が決まっていること
+- 邪魔による中断がされないこと (選択の余地がない場合を除く)
+- チャンクとチャンクの間の休憩はウェルカム (むしろ望ましい)
 
 
-### Examples: Last Friday’s Chunks
+### 例: 先週金曜日のチャンク
 
-My first chunk last Friday involved me leaving the house after breakfast at 9:15 and driving up to my team member Nicolas’ house to start a new video recording with him. I knew this chunk would last exactly 45 minutes because we had an online team hangout scheduled at 10:00.
+先週金曜日の最初のチャンクは、朝食を取ってから 9:15 に家を出て、チームメンバーの Nicolas の家まで車で行き、彼と新しい動画のレコーディングを始めることでした。10時にはオンラインチームのハングアウトが予定されていたので、この動画撮影が 45 分で終わることが分かっていました。
 
-The second chunk was the team hangout, which was surprisingly short. Only a few team members were available. Therefore, it lasted just 20 minutes.
+2番目のチャンクはチームのハングアウトでしたが、驚くほど短いものでした。チームメンバーがとても少なかったんです。なので、それはちょうど 20 分でした。
 
-The third chunk involved Nicolas and I continuing our recordings of several new videos and then me traveling back home. This took exactly 60 minutes. I allowed no interruptions, no email, no Twitter, no Facebook. I only focused on the videos. Clearly, these two “video chunks” on Friday were part of a larger project: recording and publishing three new videos.
+3番目のチャンクには Nicolas にも参加してもらって、私はいくつか新しい動画撮影を続けて、それから家に帰ってきました。これはちょうど 60 分かかりました。邪魔による中断は許しませんでした。メール、ダメ。ツイッター、ダメ。フェイスブック、ダメ。私は動画作成だけに集中しました。明らかに、金曜日におけるこれら2つの「動画作成チャンク」は、より大きなプロジェクトの一部と言えます。動画を3つ新しく撮影し、公開することでした。
 
-When I came home, I first took a 10-minute coffee break.
+家に帰ってからは 10 分間のコーヒーブレイクを取りました。
 
-The fourth chunk was a collection of tasks: I processed all emails I received in the night, and handled all questions and notifications on Twitter, Slack, Facebook and LinkedIn. This chunk was 35 minutes and then all channels were clear. This chunk was a grouping of totally unrelated activities. They were only similar in the sense that I was in “response mode” all the time: simply replying to dozens of messages.
+4番目のチャンクは、夜に受信したすべてのメールと、Twitter、Slack、Facebook、LinkedInの質問や通知を処理するというタスクを集めたものでした。このチャンクは 35 分の作業で、その後すべてのチャネルがクリアになりました。このチャンクは、全く無関係なアクティビティのグループです。それらには共通点があり、それをやっている間、私は「返信モード」にいて、単純に何十ものメッセージに返信するという点でのみ似ていました。
 
 Chunk number five took only 10 minutes: posting and scheduling some interesting articles I had found the night before. For me this is a recurring two-chunk activity: reading in bed at night for about 30 minutes, and then posting articles for about 10 minutes the next morning. This is always two chunks, separated by a good night’s sleep.
 
