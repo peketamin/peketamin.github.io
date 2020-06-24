@@ -1,32 +1,4 @@
-かえるを食べてしまえ (Tackle the Hard Stuff First)
-===============================================
-
-description: ABCDEメソッドやチャンク・テクニックなどのタスク管理や仕事術の紹介
-
-[最も大切な仕事を優先する方法•Asana](https://asana.com/ja/resources/how-prioritize-tasks-work) で紹介されていた次の4つのタスク管理術を翻訳していきたい。
-
-- かえるを食べてしまえ  (Tackle the Hard Stuff First)
-    - https://www.codingvc.com/tackle-the-hard-stuff-first
-- アイゼンハワーマトリクス (Eisenhower's Urgent/Important Principle)
-    - https://www.mindtools.com/pages/article/newHTE_91.htm
-- ABCDEメソッド (The ABCDE Method For Setting Priorities)
-    - https://www.briantracy.com/blog/personal-success/the-abcde-method-for-setting-priorities/
-- チャンキング・テクニック (How to Be More Productive: The Chunking Technique)
-    - https://noop.nl/2015/03/how-to-be-more-productive-the-chunking-technique.html
-
-## Asanaの記事には紹介されてなかったけど、Twitterで知った手法「The Ivy Lee Method」
-cf: https://jamesclear.com/ivy-lee
-
-1. At the end of each work day, write down the six most important things you need to accomplish tomorrow. Do not write down more than six tasks.
-2. Prioritize those six items in order of their true importance.
-3. When you arrive tomorrow, concentrate only on the first task. Work until the first task is finished before moving on to the second task.
-4. Approach the rest of your list in the same fashion. At the end of the day, move any unfinished items to a new list of six tasks for the following day.
-5. Repeat this process every working day.
-
-
-----
-
-## かえるを食べてしまえ (Tackle the Hard Stuff First)
+# かえるを食べてしまえ (Tackle the Hard Stuff First)
 原文: https://www.codingvc.com/tackle-the-hard-stuff-first  
 Credit: Leo Polovets(https://www.codingvc.com/about)
 
@@ -40,17 +12,17 @@ Credit: Leo Polovets(https://www.codingvc.com/about)
 
 ピッチ (短時間で行うサービスの売り込みプレゼンテーショントーク) をするとき、真正面から向き合うのではなく難しい部分を避けてしまうことがよくあります。プロダクトやスタートアップ、VCファンドに投資するように説得しようとするとき、プレゼンター多くは厳しい質問に対して軽率な、あるいは浅はかな回答をしてしまいます。ありがちなことではありますが、それが正しい行動と言える場合は滅多にないでしょう。具体的な例をいくつか挙げてみましょう。
 
-### 例 #1
+## 例 #1
 - 投資家: 「競争上、優位な点は何ですか？」
 - ファウンダー: 「この分野においては、他の企業よりも優れた実行力と専門知識を持っている点です」
   (ほぼすべての競合他社が全く同じことを言うでしょう）
 
-### 例 #2
+## 例 #2
 - ファウンダー: 「100万ドルを調達しようとしていますが、総額500万ドルの投資オファーがあります。他の投資家からではなく、御社から資金オファーを受ける必然性はどのようなものでしょうか？」
 - VC: 「我々は他のファンドよりも付加価値が高く、私たちの抱えるパートナーは運営に関して深い専門知識を持っていますよ」
   (ほとんどのVCファンドも似たようなことを主張しているので、これは基本的に答えになっているとは言えません)
 
-### 例 #3
+## 例 #3
 - 見込み顧客: 「私のビジネスはダウンタイムのリスクを取れません。御社の製品に100％の稼働を期待できるかという点について説明してもらえますか？」
 - 営業担当者: 「私たちは10週間の実際に稼働させてきましたが、まだクラッシュはありません。またこの状況がすぐには変わらないと信じています」
   (見込み客の懸念に対して真っ当には対処していない、個人的な見解に基づいた回答)
