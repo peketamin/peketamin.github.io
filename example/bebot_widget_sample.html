@@ -730,29 +730,63 @@ time=Math.ceil((time.getTime()-new Date().getTime())/86400000);
 
 				
 <!--その他のページ-->
+
 <script src="https://webchat.uat.bebot.io/js/jsapi.js"></script>
-
 <script>
-bebot.onLoad(function() {
-bebot.init({
-key:
-"222a1efe1c4686a97acf775775a42086191ee90da3ac4678cbbf6f000f23e542",
-settings: {
-locale: "ja-jp",
-card: {
-imageUrl: "https://res.cloudinary.com/de3puoqmo/image/upload/v1634733329/%5BDO%20NOT%20DELETE%5D%20Taketomi_Widget_Icon.png"
-},
-bubbleButton: {
-text: "ピカリャ〜と<br/>チャットする"
-},
-messageNotification: {
-text: "こんにちは。私、ピカリャ〜が質問にお答えします。"
-}
-}
-});
-});
+   function start() {
+     // 2. Initialize the JavaScript client library.
+     bebot.init({
+       key: '222a1efe1c4686a97acf775775a42086191ee90da3ac4678cbbf6f000f23e542',
+       settings: {
+         card: {
+           // title: 'Bebot',
+           // subTitle: '質問を入力してください 👇',
+           imageUrl: "https://res.cloudinary.com/de3puoqmo/image/upload/v1634733329/%5BDO%20NOT%20DELETE%5D%20Taketomi_Widget_Icon.png",
+           // buttonText: 'チャットする',
+           // buttonTextColor: '#008899',
+           },
+         menu: {
+           // itemBackgroundColor: "#3547d9"
+         },
+         bubbleButton: {
+           // backgroundColor: '#008899',
+           text: 'ピカリャ〜と<br/>チャットする',
+           bottomMargin: { // can be changed to move widget above another fixed element
+             mobile: 10, // px
+             desktop: 10 // px
+           }
+         },
+         messageNotification: {
+           text: "こんにちは。私、ピカリャ〜が質問にお答えします。"
+         },
+         wordSuggestions: {
+           // backgroundColor: "#0034da"
+         },
+         header: {
+           // logoUrl: '',
+           // buttonColor: '#008899',
+           // logoText: 'Powered by Bebot'
+         },
+         bot: {
+           // avatarUrl: 'https://res.cloudinary.com/de3puoqmo/image/upload/v1634733329/%5BDO%20NOT%20DELETE%5D%20Taketomi_Widget_Icon.png'
+         },
+         align: 'right', // can also be 'left'
+         mediaQueryThresholds: {
+           mobile: 500 // px (screen width), can be changed to match the website’s behavior
+         },
+         onOpen: function() { /* custom event tracking code */ }
+       },
+     }).then(function (response) {
+       console.log(response);
+     },   function (reason) {
+       console.log(reason);
+     });
+   };
+   //   1.   Load the JavaScript client library.
+   bebot.onLoad(start);
 </script>
-
+	
+	
 <script type="text/javascript" language="javascript">
 
 $(document).ready(function(){
