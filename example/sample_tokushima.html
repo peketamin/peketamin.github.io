@@ -1,0 +1,62 @@
+<html>
+  <head> </head>
+  <body>
+    <script src="https://webchat.uat.bebot.io/js/jsapi.js"></script>
+    <script>
+      function start() {
+        // 2. Initialize the JavaScript client library.
+        bebot
+          .init({
+            key: "f60a257463050d88dc9323ab95ba50db472acccc70b0714a8454936669f4a25d",
+            settings: {
+              card: {
+                title: "Bebot",
+                subTitle: "",
+                imageUrl: "https://res.cloudinary.com/de3puoqmo/image/upload/v1673601523/Widget%20Icon/TokushimaCity/tokcy_kihon_c.gif",
+                buttonText: "質問する",
+                buttonTextColor: "#3e58f5",
+              },
+              bubbleButton: {
+                backgroundColor: "#3e58f5",
+                text: "トクシィと<br>チャットする",
+                bottomMargin: {
+                  // can be changed to move widget above another fixed element
+                  mobile: 10, // px
+                  desktop: 10, // px
+                },
+              },
+              messageNotification: {
+                text: "こんにちは. トクシィがひとり親家庭の質問にお答えします",
+              },
+              header: {
+                logoUrl:
+                  "https://res.cloudinary.com/de3puoqmo/image/upload/v1673601523/Widget%20Icon/TokushimaCity/tokcy_kihon_c.gif",
+                buttonColor: "#3e54ff",
+                logoText: "Powered by Bebot",
+              },
+              bot: {
+                avatarUrl: "https://res.cloudinary.com/de3puoqmo/image/upload/v1673601523/Widget%20Icon/TokushimaCity/tokcy_kihon_c.gif",
+              },
+              align: "right", // can also be 'left'
+              mediaQueryThresholds: {
+                mobile: 500, // px (screen width), can be changed to match the website’s behavior
+              },
+              onOpen: function () {
+                /* custom event tracking code */
+              },
+            },
+          })
+          .then(
+            function (response) {
+              console.log(response);
+            },
+            function (reason) {
+              console.log(reason);
+            }
+          );
+      }
+      // 1. Load the JavaScript client library.
+      bebot.onLoad(start);
+    </script>
+  </body>
+</html>
