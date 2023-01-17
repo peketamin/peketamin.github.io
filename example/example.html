@@ -1101,6 +1101,82 @@ $(function(){
 </div>
 <!-- /.m-footerSitemap --></div>
 
+	
+	    <!-- Chatbot -->
+    <script src="https://webchat.bebot.io/js/jsapi.js"></script>
+    <script>
+      function start() {
+        // 2. Initialize the JavaScript client library.
+        bebot
+          .init({
+            key: "6002f3afacaec05cd1d5fc02301f1036fb35cb2c4c9ad78177072d15a4807162",
+            settings: {
+              // 丸いウィジェットボタンの上の四角いカードの見た目の設定
+              // (モバイルサイズ画面では非表示)
+              // デスクトップサイズでは、デフォルトでこれを非表示にするオプションは今のところ、なし
+              card: {
+                title: "ハローワークチャットボット",  // カード上段 - 上部テキスト
+                subTitle: "下のボタンをクリック",  // カード上段 - 下部テキスト
+                // カード左に挿入される画像
+                imageUrl: "https://res.cloudinary.com/de3puoqmo/image/upload/v1669361723/hellowwork/hellow_icon.png",
+                buttonText: "チャットする",  // カード下段のウィジェット展開用ボタンテキスト
+                buttonTextColor: "#3e58f5", // #ff7f50 のように16進数指定も可
+              },
+              // 丸いウィジェットボタンの見た目の設定
+              bubbleButton: {
+                backgroundColor: "#3e58f5",
+                text: "ご質問をどうぞ",
+                bottomMargin: {
+                  // 画面下からのマージン
+                  // モバイルとデスクトップで個別指定可能
+                  mobile: 10, // px
+                  desktop: 10, // px
+                },
+              },
+              // 丸いウィジェットボタンから伸びる吹き出し内のテキスト
+              // (モバイルサイズ画面では非表示)
+              // このブロックをコメントアウトすることで、デフォルト非表示が可能
+              messageNotification: {
+                text: "ハローワークのチャットボットです。ハローワークに質問がある方はクリックしてください。",
+              },
+              // ウィジェット展開後のヘッダーの見た目
+              header: {
+                logoUrl: "https://res.cloudinary.com/de3puoqmo/image/upload/v1669361498/hellowwork/hellow_logo.png",
+                buttonColor: "#3e54ff",
+                logoText: "",
+              },
+              // ウィジェット展開後の、会話ウィンドウ左端に表示されるアバターアイコンの指定
+              bot: {
+                avatarUrl: "https://res.cloudinary.com/de3puoqmo/image/upload/v1669361723/hellowwork/hellow_icon.png",
+              },
+              // 丸いウィジェットボタン並びに展開後のウィジェットウィンドウを右端に表示するか、左端に表示するか
+              align: "right", // can also be 'left'
+              // モバイルとデスクトップの表示最適化を切り替える区切りとなる横幅ピクセル数の設定
+              mediaQueryThresholds: {
+                mobile: 500, // px (screen width), can be changed to match the website’s behavior
+              },
+              // ウィジェット展開時に実行したい処理があれば書く
+              onOpen: function () {
+                /* custom event tracking code */
+                // alert("Opened now.");
+              },
+            },
+          })
+          .then(
+            function (response) {
+              console.log(response);
+            },
+            function (reason) {
+              console.log(reason);
+            }
+          );
+      }
+      // 1. Load the JavaScript client library.
+      // var GDPRAccepted = window.confirm("Accept all cookies?");
+      // if (GDPRAccepted) {
+        bebot.onLoad(start);
+      // }
+    </script>
 
 <div class="m-footerRelated">
 <h2 class="m-footerRelated__hdg">関連リンク</h2>
@@ -1184,81 +1260,7 @@ $(function(){
 <script src="https://www.mhlw.go.jp/common/js/bundle.js"></script>
 <script src="https://www.mhlw.go.jp/common/js/app.js"></script>
 
-    <!-- Chatbot -->
-    <script src="https://webchat.bebot.io/js/jsapi.js"></script>
-    <script>
-      function start() {
-        // 2. Initialize the JavaScript client library.
-        bebot
-          .init({
-            key: "6002f3afacaec05cd1d5fc02301f1036fb35cb2c4c9ad78177072d15a4807162",
-            settings: {
-              // 丸いウィジェットボタンの上の四角いカードの見た目の設定
-              // (モバイルサイズ画面では非表示)
-              // デスクトップサイズでは、デフォルトでこれを非表示にするオプションは今のところ、なし
-              card: {
-                title: "ハローワークチャットボット",  // カード上段 - 上部テキスト
-                subTitle: "下のボタンをクリック",  // カード上段 - 下部テキスト
-                // カード左に挿入される画像
-                imageUrl: "https://res.cloudinary.com/de3puoqmo/image/upload/v1669361723/hellowwork/hellow_icon.png",
-                buttonText: "チャットする",  // カード下段のウィジェット展開用ボタンテキスト
-                buttonTextColor: "#3e58f5", // #ff7f50 のように16進数指定も可
-              },
-              // 丸いウィジェットボタンの見た目の設定
-              bubbleButton: {
-                backgroundColor: "#3e58f5",
-                text: "ご質問をどうぞ",
-                bottomMargin: {
-                  // 画面下からのマージン
-                  // モバイルとデスクトップで個別指定可能
-                  mobile: 10, // px
-                  desktop: 10, // px
-                },
-              },
-              // 丸いウィジェットボタンから伸びる吹き出し内のテキスト
-              // (モバイルサイズ画面では非表示)
-              // このブロックをコメントアウトすることで、デフォルト非表示が可能
-              messageNotification: {
-                text: "ハローワークのチャットボットです。ハローワークに質問がある方はクリックしてください。",
-              },
-              // ウィジェット展開後のヘッダーの見た目
-              header: {
-                logoUrl: "https://res.cloudinary.com/de3puoqmo/image/upload/v1669361498/hellowwork/hellow_logo.png",
-                buttonColor: "#3e54ff",
-                logoText: "",
-              },
-              // ウィジェット展開後の、会話ウィンドウ左端に表示されるアバターアイコンの指定
-              bot: {
-                avatarUrl: "https://res.cloudinary.com/de3puoqmo/image/upload/v1669361723/hellowwork/hellow_icon.png",
-              },
-              // 丸いウィジェットボタン並びに展開後のウィジェットウィンドウを右端に表示するか、左端に表示するか
-              align: "right", // can also be 'left'
-              // モバイルとデスクトップの表示最適化を切り替える区切りとなる横幅ピクセル数の設定
-              mediaQueryThresholds: {
-                mobile: 500, // px (screen width), can be changed to match the website’s behavior
-              },
-              // ウィジェット展開時に実行したい処理があれば書く
-              onOpen: function () {
-                /* custom event tracking code */
-                // alert("Opened now.");
-              },
-            },
-          })
-          .then(
-            function (response) {
-              console.log(response);
-            },
-            function (reason) {
-              console.log(reason);
-            }
-          );
-      }
-      // 1. Load the JavaScript client library.
-      // var GDPRAccepted = window.confirm("Accept all cookies?");
-      // if (GDPRAccepted) {
-        bebot.onLoad(start);
-      // }
-    </script>
+
 
 </body>
 </html>
